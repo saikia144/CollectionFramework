@@ -1,0 +1,41 @@
+## The OpenJDK source code is available on the OpenJDK website (https://jdk.java.net/), under the "Source Code" tab
+## Visit dev.java for the latest Java developer news and resources.
+ 
+Here's a comprehensive list of all the collections in Java, categorized by their types:
+
+1.List:
+	ArrayList
+	LinkedList
+	Vector
+	Stack
+	CopyOnWriteArrayList
+2.Set:
+	HashSet
+	LinkedHashSet
+	TreeSet
+	EnumSet
+	CopyOnWriteArraySet
+3.Queue:
+	LinkedList
+	PriorityQueue
+	ArrayDeque
+	ConcurrentLinkedQueue
+	DelayQueue
+	LinkedBlockingQueue
+	PriorityBlockingQueue
+	SynchronousQueue
+4.Map:
+	HashMap
+	LinkedHashMap
+	TreeMap
+	WeakHashMap
+	IdentityHashMap
+	EnumMap
+	ConcurrentHashMap
+5.Deque:
+	ArrayDeque
+	LinkedList
+6.Other:
+	BitSet
+	Properties
+	 
