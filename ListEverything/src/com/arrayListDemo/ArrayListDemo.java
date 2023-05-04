@@ -19,7 +19,7 @@ public class ArrayListDemo {
 //Adding another collection
 		al1.addAll(al2);
 		System.out.println(al2.size());
-//
+//Adding a different collection at a specified position
 		al1.addAll(1, al2);
 		System.out.println(al1.toString());
 		System.out.println(al1.size());
